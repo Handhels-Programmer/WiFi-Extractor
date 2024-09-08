@@ -1,0 +1,16 @@
+Perfil: Handhels-Movil
+SSID: "Handhels-Movil"
+Contraseña: 26210103h
+----------------------------------------
+Perfil: Handhels Movil
+SSID: "Handhels Movil"
+Contraseña: 26210103h
+----------------------------------------
+Perfil: Handhels Wifi
+SSID: "Handhels Wifi"
+Contraseña: 5HQH4CXGc5
+----------------------------------------
+Perfil: Handhels Inc
+SSID: "Handhels Inc"
+Contraseña: 26210103h
+----------------------------------------
